@@ -1,0 +1,24 @@
+{
+  "name": "tutorialesdotcomapi",
+  "version": "1.0.0",
+  "description": "APIRest for TutorialDotCom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "src/inde"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiibayona/tutorialesdotcomAPI.git"
+  },
+  "author": "Emiliano Bayona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiibayona/tutorialesdotcomAPI/issues"
+  },
+  "homepage": "https://github.com/emiibayona/tutorialesdotcomAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
